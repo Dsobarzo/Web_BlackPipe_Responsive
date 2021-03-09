@@ -353,6 +353,7 @@ footer {
     margin: auto;
     justify-content: space-around;
     width: 100%;
+    cursor: pointer;
 }
 
 .fab {
